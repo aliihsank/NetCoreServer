@@ -1,3 +1,6 @@
+# Important Notes for Unity:
+Use NetCore-3.0 branch for .Net Standard 2.1
+
 # NetCoreServer
 
 [![Awesome .NET](https://awesome.re/badge.svg)](https://github.com/quozd/awesome-dotnet)
